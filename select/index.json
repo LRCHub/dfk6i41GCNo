@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Centuries",
+  "base_artist": "Fall Out Boy",
+  "createdAt": "2026-01-11T10:24:01.335819Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Centuries Of Torment",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/01_Centuries_Of_Torment_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Centuries of Lies",
+      "artist": "Obituary",
+      "has_synced": true,
+      "path": "select/02_Centuries_of_Lies_Obituary.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Centuries of Lies (Live)",
+      "artist": "Obituary",
+      "has_synced": false,
+      "path": "select/03_Centuries_of_Lies_(Live)_Obituary.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Awaking the Centuries",
+      "artist": "Haggard",
+      "has_synced": false,
+      "path": "select/04_Awaking_the_Centuries_Haggard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/05_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hours Pass Like Centuries",
+      "artist": "Taken By Trees",
+      "has_synced": true,
+      "path": "select/06_Hours_Pass_Like_Centuries_Taken_By_Trees.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "The FifthGuys feat. Shiah Maisel & The Late Night Project",
+      "has_synced": false,
+      "path": "select/07_Centuries_The_FifthGuys_feat._Shiah_Maisel_&_The_Late_Night_Project.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Centuries - Remix",
+      "artist": "Fall Out Boy feat. Juicy J",
+      "has_synced": true,
+      "path": "select/08_Centuries_-_Remix_Fall_Out_Boy_feat._Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Centuries - Remix",
+      "artist": "Fall Out Boy/Juicy J/Jonathan \"JR\" Rotem",
+      "has_synced": true,
+      "path": "select/09_Centuries_-_Remix_Fall_Out_Boy_Juicy_J_Jonathan__JR__Rotem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/10_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Chapter III: Awaking The Centuries",
+      "artist": "Haggard",
+      "has_synced": true,
+      "path": "select/11_Chapter_III__Awaking_The_Centuries_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/12_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/13_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/14_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/15_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Centuries(Pop Mix)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/16_Centuries(Pop_Mix)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Centuries (2014)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/17_Centuries_(2014)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/18_Centuries_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "has_synced": false,
+      "path": "select/pl_01_Centuries_Fall_Out_Boy.txt"
+    }
+  ]
+}
